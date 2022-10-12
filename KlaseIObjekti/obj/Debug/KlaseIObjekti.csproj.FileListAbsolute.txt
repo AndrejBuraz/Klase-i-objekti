@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\KlaseIObjekti\bin\Debug\KlaseIObjekti.exe.config
+C:\Users\ucenik\Documents\KlaseIObjekti\bin\Debug\KlaseIObjekti.exe
+C:\Users\ucenik\Documents\KlaseIObjekti\bin\Debug\KlaseIObjekti.pdb
+C:\Users\ucenik\Documents\KlaseIObjekti\obj\Debug\KlaseIObjekti.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\KlaseIObjekti\obj\Debug\KlaseIObjekti.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\KlaseIObjekti\obj\Debug\KlaseIObjekti.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\KlaseIObjekti\obj\Debug\KlaseIObjekti.exe
+C:\Users\ucenik\Documents\KlaseIObjekti\obj\Debug\KlaseIObjekti.pdb
